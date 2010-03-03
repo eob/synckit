@@ -1,0 +1,13 @@
+Welcome to Sync Kit!
+=====================
+
+Thank you for downloading Sync Kit. Sync Kit is a web library that makes use
+of a browser's database to offload data storage and processing tasks from 
+a web server into the client. Doing so boosts the performance of your web 
+application. For feed-heavy sites such as blogs, Sync Kit can boost your 
+server throughput by a factor of four.
+
+We're working on uploading some runable demos of Sync Kit right now, but
+in the meantime you can enjoy our paper on Sync Kit:
+
+http://people.csail.mit.edu/eob/papers/www2010-synckit.pdf	
