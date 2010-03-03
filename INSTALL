@@ -1,6 +1,17 @@
-To install:
-1) cd src
-   sudo python setup.py install
-2) place src/js/sync.js in the appropriate location in your static files
-   directory on your website and check out the examples on our site for
-   more information.
+Sync Kit Installation
+=====================
+
+Installing Sync Kit requires two steps. 
+
+1. Run the installation script in the src/ directory
+
+      cd src
+      sudo python setup.py install
+
+2. Place sync.js into a location where it will be served with the other static
+   files of your website
+
+      cp src/js/sync.js path/to/my/app/static/.
+
+Then check out the examples on our site for more information about how to use
+Sync Kit.
